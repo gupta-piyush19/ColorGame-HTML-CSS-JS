@@ -1,0 +1,71 @@
+body{
+    background-color : #232323;
+    margin : 0;
+    font-family: "Avenir" , "Montserrat" ;
+}
+#container{
+    margin: 9px auto; 
+    max-width: 500px;
+    /* margin : 50px auto; */
+}
+.square {
+    width : 25%;
+    height : 25%;
+    padding-bottom: 25%;
+    float : left;
+    background : red;
+    margin : 2%;
+    border-radius: 25%;
+    transition: background 0.4s;
+    -webkit-transition: background 0.4s;
+    -moz-transition: background 0.4s;
+}
+h1{
+    height : 125px;
+    text-align: center;
+    color : white;
+    line-height: 1.1;
+    padding : 20px 0;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    background: steelblue;
+    font-weight: normal;
+}
+#strips{
+    height : 25px;
+    text-align: center;
+    background-color: white;
+}
+#disp{
+    font-size: 50px;
+}
+button:hover{
+    background : steelblue;
+    color:white;
+}
+.selected{
+    background : steelblue;
+    color:white;
+}
+button{
+    background : none;
+    border : none;
+    text-transform: uppercase;
+    height : 100%;
+    font-weight : 700;
+    color : steelblue;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    outline: none;
+}
+#msg{
+    display: inline-block;
+    width : 20%;
+}
+#pla:hover{
+    background : steelblue;
+    color : white;
+}
