@@ -8,5 +8,5 @@
 
 To run, clone the repository or download as zip and run the colorgame.html file in your browser.
 
-you can also view it on codepen, [click here](https://codepen.io/Piyush0_0/pen/XWmwaqM)
+you can also view it on codepen, [click here](https://gupta-piyush19.github.io/ColorGame-HTML-CSS-JS/)
 
